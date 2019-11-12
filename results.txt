@@ -1,0 +1,7 @@
+Barry 67 
+Leonard 77 
+Ronald 76 
+Penny 89 
+Wise 85 
+Roger 92 
+Lando 60
